@@ -4,4 +4,4 @@ Hello tthis file chnaged in the local repositaory
 
 this changes are done in decelopment branch
 
-this is for cherry pick practise
+this is for cherry pick practise only
