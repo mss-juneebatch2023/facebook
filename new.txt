@@ -1,11 +1,20 @@
  changes done in the development branch
+<<<<<<< HEAD
  this is going to change in development branch dor stash practise
 
 
+=======
+
+
+ this is going to change in development branch dor stash practise
+>>>>>>> development
 this file is updated wit the nano editor
 
 this text is for cherrypick practise
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> development
